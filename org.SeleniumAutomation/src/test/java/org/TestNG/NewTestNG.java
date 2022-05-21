@@ -20,6 +20,7 @@ public class NewTestNG {
 	  System.out.println("beforeMethod TestNG");
   }
 
+	
   @AfterMethod
   public void afterMethod() {
 	  System.out.println("afterMethod TestNG");
